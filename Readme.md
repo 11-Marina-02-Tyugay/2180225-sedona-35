@@ -1,10 +1,6 @@
-# Личный проект «Седона»
-
+﻿# Личный проект «Седона»
 * Студент: [Марина Тюгай](https://up.htmlacademy.ru/htmlcss/35/user/2180225).
-* Наставник: `Неизвестно`.
-
----
-
+* Наставник: [Максим Боровик](https://htmlacademy.ru/profile/mouxez).
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
 
